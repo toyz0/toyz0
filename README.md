@@ -72,12 +72,13 @@ Especially practical uses of AI agents, AI-assisted development, internal tools,
 
 I still believe good fundamentals matter.
 
-AI just gives good engineers more leverage.
+AI will gives good engineers more leverage.
 
 ⸻
 
 🔗 Connect
-
+✉️ phongsathorn.e@gmail.com
+📋 https://www.linkedin.com/in/phongsathorn-e
 ⸻
 
 💡 Build useful things. Keep learning. Don't outsource your thinking to the tool.
